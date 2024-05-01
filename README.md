@@ -1,5 +1,5 @@
 # SSTKG
-Code for paper SSTKG: Simple Spatio-Temporal Knowledge Graph for Intepretable and Versatile Dynamic Information Embedding for The Web Conference 2024
+Code for paper SSTKG: Simple Spatio-Temporal Knowledge Graph for Intepretable and Versatile Dynamic Information Embedding to appear in The Web Conference 2024
 
 arxiv link: https://arxiv.org/abs/2402.12132
 
