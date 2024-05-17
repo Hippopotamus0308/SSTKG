@@ -2,7 +2,7 @@
 
 # SSTKG: Simple Spatio-Temporal Knowledge Graph for Intepretable and Versatile Dynamic Information Embedding
 
-[![Venue:WWW 2024](https://img.shields.io/badge/Venue-ICLR%202024-007CFF)](https://arxiv.org/pdf/2402.12132)
+[![Venue:WWW 2024](https://img.shields.io/badge/Venue-WWW%202024-007CFF)](https://arxiv.org/pdf/2402.12132)
 
 </div>
 
